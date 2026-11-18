@@ -34,7 +34,7 @@ Atualmente, estou aprendendo sobre programação e desenvolvimento de sistemas.
 
 ## Contato
 
-[Meu GitHub](https://github.com/)
+[Meu GitHub]([https://github.com/](https://github.com/MihGomes514))
 
 ---
 
